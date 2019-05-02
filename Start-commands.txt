@@ -5,3 +5,5 @@ live-server public
 
 
 Text for git initialization.
+
+Text for commit 3 in test branch.
