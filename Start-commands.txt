@@ -7,3 +7,14 @@ live-server public
 Text for git initialization.
 
 Text for commit 3 in test branch.
+
+
+git pull -> to keep the branch updated with the origin/main branch
+
+git status -> to know the status of all the files changed
+git diff -> to know the difference between the previous and current version of file
+git add "file_name" -> to add a single file for commit
+git add -- . -> to add all changed files for commit
+git commit -m "message for commit"
+git push -> to push the committed changes to the branch
+
