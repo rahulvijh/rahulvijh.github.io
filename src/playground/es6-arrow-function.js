@@ -21,7 +21,7 @@
 // const getFirstName = (fullName) => {
 //   return fullName.split(' ')[0];
 // hello from laptop
-
+// once again
 // };
 
 const getFirstName = (fullName) => fullName.split(' ')[0];
